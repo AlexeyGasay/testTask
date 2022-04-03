@@ -1,0 +1,26 @@
+.header {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 20px;  
+    text-align: center;
+}
+
+.enter {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.exit {
+    padding: 5px 20px;
+    margin: 10px 0;
+    background: #fff;
+    border: 1px solid #fff;
+    transition: .3s;
+    border-radius: 2px;
+
+}
+
+.exit:hover,
+.exit:focus {
+    background: rgb(230, 100, 100);
+}

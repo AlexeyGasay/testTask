@@ -1,0 +1,94 @@
+{
+  "contacts": [
+    {
+      "name": "qweqweqw",
+      "email": "qweqweqwe",
+      "phone": 2,
+      "emailIdentity": "q",
+      "id": 1
+    },
+    {
+      "name": "ssssssss",
+      "email": "sssssssss",
+      "phone": 222,
+      "emailIdentity": "q",
+      "id": 2
+    },
+    {
+      "name": "22222",
+      "email": "22222",
+      "phone": 2,
+      "emailIdentity": "q",
+      "id": 3
+    },
+    {
+      "name": "wwwwwwwww",
+      "email": "wwwwwwwww",
+      "phone": 2,
+      "emailIdentity": "w",
+      "id": 4
+    },
+    {
+      "name": "qwewqeqwe",
+      "email": "wqeqweq",
+      "phone": 222,
+      "emailIdentity": "w",
+      "id": 5
+    },
+    {
+      "name": "wwwwwwwwww",
+      "email": "wwwwwwww",
+      "phone": 22,
+      "emailIdentity": "sssss",
+      "id": 6
+    },
+    {
+      "name": "asdasdaasdasd",
+      "email": "asdasd",
+      "phone": 222,
+      "emailIdentity": "wwwwwww",
+      "id": 7
+    },
+    {
+      "name": "qweqwe",
+      "email": "qweqwe",
+      "phone": 2,
+      "emailIdentity": "qweqweqwe",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product001",
+      "cost": 10,
+      "quantity": 1000,
+      "locationId": 1,
+      "familyId": 1
+    },
+    {
+      "id": 2,
+      "name": "Product002",
+      "cost": 20,
+      "quantity": 2000,
+      "locationId": 1,
+      "familyId": 2
+    },
+    {
+      "id": 3,
+      "name": "Product003",
+      "cost": 30,
+      "quantity": 3000,
+      "locationId": 3,
+      "familyId": 2
+    },
+    {
+      "id": 4,
+      "name": "Product004",
+      "cost": 40,
+      "quantity": 4000,
+      "locationId": 2,
+      "familyId": 3
+    }
+  ]
+}
